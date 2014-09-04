@@ -1,0 +1,3 @@
+
+"datetime=26Aug2001","20:26:02","action=drop","fw_name=NFL-cp.NFL.gov","dir=inbound","src=139.67.8.235","dst=139.203.160.214","bytes=48","rule=29","proto=tcp/http"
+"datetime=26Aug2001","20:26:02","action=drop","fw_name=NFL-cp.NFL.gov","dir=inbound","src=116.10.191.212","dst=139.203.133.42","bytes=48","rule=29","proto=tcp/http"
